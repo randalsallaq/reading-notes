@@ -1,0 +1,37 @@
+# Responsive Web Design..
+
+![r](https://hackernoon.com/images/1tjg32bo.jpg)
+
+
+**Responsive Web Design** basically means to build the website with the considiration of the screen size and resolution. so that the website suites any of the screens. this keeps the structure and the elements at their places like they are supposed to be.
+
+
+###### so that website's structure and functionulity response quickly to any change.
+
+
+## Flexible Layouts
+![d](https://daks2k3a4ib2z.cloudfront.net/56cd68220565856c6df62081/570d7b631a487b221cf04c9c_flexbox.png)
+
+> A flexible, or "liquid," approach to page layout attempts to accommodate the diversity of display environments. Rather than serving only the "most common" display dimensions and the "typical" user, a flexible layout adapts to different viewing conditions and different user requirements.
+
+
+[Reference](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+
+
+
+
+# Float
+The float CSS property locates the elements on the left or right side of their containers, which alllows text and inline elements to wrap around it. The element is removed from the normal flow of the page, though still remaining a part of the flow.
+
+![y](https://i1.wp.com/css-tricks.com/wp-content/csstricks-uploads/web-text-wrap.png?resize=540%2C270&ssl=1)
+
+The float property can have one of the following values:
+
+left 
+right 
+none 
+inherit 
+
+[Reference](https://css-tricks.com/all-about-floats/)
+
+
