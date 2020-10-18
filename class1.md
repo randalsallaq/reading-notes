@@ -43,3 +43,6 @@ CSS Grid allows us to write better layouts using the in-browser capability of gr
 
 ![s](https://xd.adobe.com/ideas/wp-content/uploads/2020/04/css-grid-layout-tutorial.jpg)
 
+[Reference](https://css-tricks.com/dont-overthink-it-grids/)
+
+
