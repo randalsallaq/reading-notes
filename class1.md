@@ -28,10 +28,18 @@ The float CSS property locates the elements on the left or right side of their c
 The float property can have one of the following values:
 
 left 
-right 
+
+right
+
 none 
+
 inherit 
 
 [Reference](https://css-tricks.com/all-about-floats/)
 
+
+# Grid
+CSS Grid allows us to write better layouts using the in-browser capability of grids. Prior to CSS Grid, we either had to use our own custom grid system or something like Bootstrap.
+
+![s](https://xd.adobe.com/ideas/wp-content/uploads/2020/04/css-grid-layout-tutorial.jpg)
 
