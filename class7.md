@@ -28,10 +28,11 @@ The Hypertext Transfer Protocol is an application layer protocol for distributed
  ![api](https://ucppr2k2q2u3lbr9b2ah3a31-wpengine.netdna-ssl.com/blog/wp-content/uploads/sites/3/2019/09/What-Is-API-Development.jpg)
  
  ## What is API?
+ 
  API stands for **application programming interface**
  
  
-  ### So what does it mean?
+ ### So what does it mean?
   
  An application programming interface is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow.
  
