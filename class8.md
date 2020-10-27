@@ -13,3 +13,25 @@ stands for **Structured Query Language**. SQL is used to communicate with a data
 ![re](https://www.researchgate.net/profile/George_Thiers/publication/307433134/figure/fig16/AS:669478073405457@1536627419936/A-Definition-of-a-Relational-Database.ppm)
 
  > A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database.
+ 
+ 
+ # Syntax
+ 
+ 1. Keywords
+ 
+ 2. Identifiers
+ 
+ 3. Clauses
+ 
+ 4. Expressions
+ 
+ 5. Predicates
+ 
+ 6. Queries
+ 
+ 7. semicolon
+ 
+ 8. Insignificant whitespace
+ 
+ 
+ ![syntax](https://www.w3resource.com/w3r_images/select-syntax.gif)
