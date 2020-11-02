@@ -1,0 +1,10 @@
+# EJS Partials
+
+![partials](https://i.stack.imgur.com/Jt4nj.png)
+
+ EJS Partials help us avoid repetition of the same code on several web pages. So that we use `include()` method in order to insert some specific content in other pages which can be reusable.
+ 
+ 
+ - In order to use the method include inside the EJS file we have to wrap them with `<%` with adding `-` after the opening tag, **Example**:
+ 
+ `<%- include(file name)<%`
