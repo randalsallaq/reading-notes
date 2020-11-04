@@ -28,7 +28,12 @@ Identify which salespeople call on specific customers.
 - Deletion Anomaly
 
 
-# click here to know more
+# click below to know more
+
+
+
+[![Everything Is AWESOME](https://hackr.io/blog/dbms-normalization/thumbnail/large)](https://www.youtube.com/watch?v=xoTyrdT9SZI&ab_channel=Studytonight)
+
 
 
 
